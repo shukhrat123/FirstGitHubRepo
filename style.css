@@ -1,0 +1,11 @@
+body {
+    background-color: pink;
+  }
+
+li {
+    font-size: 32px;
+}
+
+ul li {
+    list-style: none;
+}
