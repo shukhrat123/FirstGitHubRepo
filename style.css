@@ -1,11 +1,15 @@
 body {
-    background-color: pink;
-  }
-
+    background-color: #F5F5DC;
+}
 li {
     font-size: 32px;
+    color:purple;
 }
 
 ul li {
     list-style: none;
+}
+
+h1 {
+    color:chocolate;
 }
