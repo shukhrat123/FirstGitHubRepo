@@ -1,0 +1,14 @@
+body {
+    background-image: url("https://housefresh.com/wp-content/uploads/2022/03/Bushart-Gardens_Victoria_Canada.jpg");
+    background-size: cover;
+}
+h1 {
+    color: white;
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+}
+p {
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px 5px black;
+}
